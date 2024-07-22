@@ -11,3 +11,197 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar {
+  padding: 1rem 1.5rem;
+  background-color: #003366;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.2rem;
+  margin-right: 1rem;
+}
+
+.navbar-nav .nav-link:last-child {
+  margin-right: 0;
+}
+
+.navbar-nav .nav-link .fa-user {
+  margin-right: 0.5rem;
+}
+
+.HomePage {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.HomePage .main-title {
+  font-size: 2.5rem;
+  color: #003366;
+  margin-bottom: 20px;
+  margin-top: 80px; 
+}
+
+.HomePage p {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.HomePage .description h2 {
+  font-size: 2rem;
+  color: #003366;
+  margin-bottom: 20px;
+}
+
+.HomePage .description p {
+  font-size: 1.1rem;
+  color: #666;
+  text-align: left;
+}
+
+.HomePage .img-fluid {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.HomePage .text-center {
+  font-size: 2rem;
+  color: #003366;
+  margin-bottom: 30px;
+}
+
+.HomePage .card {
+  background-color: #f8f9fa;
+  border: none;
+}
+
+.HomePage .card-title {
+  font-size: 1.5rem;
+  color: #003366;
+}
+
+.HomePage .card-text {
+  font-size: 1rem;
+  color: #666;
+}
+
+.HomePage .btn-primary {
+  background-color: #003366;
+  border: none;
+}
+
+.HomePage .carousel-item p {
+  font-size: 1.2rem;
+  color: #003366;
+}
+
+.HomePage .review-item {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  margin: 20px;
+  font-size: 1.2rem;
+  color: #003366;
+}
+
+
+footer {
+  background-color: #003366; 
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.Contact {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-fluid {
+  flex: 1;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  margin-top: 3rem;
+  padding-top: 3rem;
+}
+
+.large-input {
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+.large-textarea {
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+.btn-send {
+  background-color: #003366;
+  border-color: #003366;
+  font-size: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  width: 10%;
+  margin-bottom: 3rem; 
+}
+
+.btn-send:hover {
+  background-color: #003366;
+  border-color: #003366;
+}
+
+footer {
+  background-color: #003366;
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+  width: 100%;
+  position: relative;
+}
+
+.footer-two {
+  padding: 40px 0;
+  background-color: #f8f9fa;
+}
+
+.vertical-text p {
+  margin: 0;
+  line-height: 1.5;
+  color: #003366;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.social-icons .mr-2 {
+  margin-right: 10px;
+}
+
+.footer-two h5 {
+  margin-bottom: 20px;
+  color: #003366;
+}
+
+.footer-two p {
+  margin: 0 0 10px;
+  color: #003366;
+}
+
+

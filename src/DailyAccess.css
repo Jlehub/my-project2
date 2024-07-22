@@ -1,0 +1,39 @@
+
+.daily-access-container {
+    margin-top: 75px; 
+    margin-bottom: 50px; 
+  }
+  
+  .daily-access-title {
+    margin-bottom: 40px;
+    font-size: 2rem;
+  }
+  
+  .daily-access-card {
+    border: none; 
+    width: 18rem;
+    height: 15rem;
+  }
+  
+  .daily-access-card-img {
+    height: 10rem; 
+    object-fit: cover; 
+  }
+  
+  .daily-access-card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #003366; 
+  }
+  
+  .daily-access-card-text {
+    color: #ffffff; 
+    font-size: 1rem;
+  }
+  
+  .daily-access-card-overlay {
+    background-color: rgba(0, 0, 0, 0.5); 
+  }
+  
+  
+   
